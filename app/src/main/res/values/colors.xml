@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFAE50</color>
+    <color name="colorPrimaryDark"> #EC9533</color>
+    <color name="colorAccent">#FFAE50</color>
+    <color name="laranja_claro">#FFD470</color>
+</resources>
